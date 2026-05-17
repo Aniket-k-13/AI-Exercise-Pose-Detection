@@ -25,6 +25,7 @@ An AI-powered fitness trainer built using Python and computer vision techniques 
 - NumPy
 
 ## 📂 Project Structure
+
 AI-Fitness-Trainer/
 │
 ├── Arm_Rotation_left.py
@@ -37,6 +38,8 @@ AI-Fitness-Trainer/
 ├── tree_pose_right.py
 ├── voice_control.py
 └── README.md
+
+
 ## ▶️ Run the Project
 
 ```bash
