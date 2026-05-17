@@ -47,11 +47,14 @@ AI-Fitness-Trainer/
 
 ```bash
 python filename.py
+```
+
 📌 Future Improvements
 GUI integration
 Workout analytics dashboard
 Calorie estimation
 Personalized AI workout assistant
-👨‍💻 Author
 
+
+👨‍💻 Author
 Aniket Khandare
