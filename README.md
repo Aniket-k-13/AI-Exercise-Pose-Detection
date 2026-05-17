@@ -57,6 +57,5 @@ python filename.py
 * Personalized AI workout assistant
 
 ## 👨‍💻 Author
-
 Aniket Khandare
 
