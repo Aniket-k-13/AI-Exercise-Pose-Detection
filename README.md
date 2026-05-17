@@ -60,6 +60,3 @@ python filename.py
 
 Aniket Khandare
 
-```
-```
-
